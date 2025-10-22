@@ -14,12 +14,6 @@ Vision: My long-term vision is  to build innovative FinTech solutions that empow
 
 Here's a breakdown of my current technical knowledge and the tools I use regularly:
 
-Domain
-
-Strong
-
-Learning/Improving
-
 Tools/Frameworks
 
 Backend Languages
@@ -34,15 +28,11 @@ DevOps & Tools
 
 Git, Linux CLI
 
-Docker & Containerization, CI/CD (GitHub Actions)
-
-Docker, Git, VS Code, Postman/Insomnia
+Git, VS Code, Postman/Insomnia
 
 API Design
 
 RESTful principles
-
-GraphQL
 
 Django REST Framework (DRF)
 
